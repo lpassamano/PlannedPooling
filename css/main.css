@@ -1,0 +1,71 @@
+#page { 
+    margin:0px 10px 10px 10px; 
+    width: 40em;
+}
+
+.topbar a:link {
+    color: #b0c4de; 
+    background: 555555
+}
+
+.topbar a:visited {
+    color: #b0c4de;  
+    background: 555555
+}
+
+.topbar a:active {
+    color: #b0c4de;    
+    background: 555555
+}
+
+.topbar {
+    margin-left:10px;
+}
+
+.byme {
+    text-align:right; 
+    font-size:60%;
+}
+
+#navigation {
+    border:0px; 
+    width:100%; 
+    border-spacing:0px; 
+    padding:0px; 
+    background-color:#000000; 
+    width:100%; 
+    color:#b0c4de; 
+    font-family:arial; 
+    size:large
+}
+
+body {
+    margin:0px;
+    background-color:#ffffff;
+}
+
+#long {
+    width:100%
+}
+
+.titlebar { 
+    border:0px; 
+    width:100%; 
+    border-spacing:0px; 
+    padding:0px; 
+    background-color:#BF5FFF; 
+    text-align:right; 
+    margin-right:10px; 
+    font-family:impact; 
+    font-size:x-large;
+}
+  
+.titlebar a:link {
+    color:555555;  
+    background: BF5FFF
+}
+
+.titlebar a:visited {
+    color:555555;  
+    background: BF5FFF
+}
